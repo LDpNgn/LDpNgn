@@ -19,7 +19,7 @@
 </div>
 
 <h1 align = "center">
-  Hello2!
+  Hello<sup>2</sup>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
