@@ -31,7 +31,7 @@
 ### 👩‍💻: About Me:
 - 👋 Hi, I’m LanDiepNguyen
 - 🌱 I’m currently learning on data science
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](landiepnguyen289@gmail.com)
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:landiepnguyen289@gmail.com)
 
 ---
 ### 🛠️: Languages and Tools:
