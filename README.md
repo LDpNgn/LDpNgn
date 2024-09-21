@@ -3,13 +3,13 @@
 </div>
 
 <div id = "badges" align = "center">
-  <a href= "your-linkedin-url">
+  <a href= "https://www.linkedin.com/in/lan-diep-nguyen/">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
   </a>
-  <a href = "your-youtube-url">
+  <a href = "https://www.youtube.com/@nalpeidnguyen289">
     <img src = "https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt = "YouTube Badge"/>
   </a>
-  <a href = "your-facebook-url">
+  <a href = "https://www.facebook.com/landiepnguyen289">
     <img src = "https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt = "FaceBook Badge"/>
   </a>
 </div>
